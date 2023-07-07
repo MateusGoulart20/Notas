@@ -1,0 +1,17 @@
+morte, assassinato: cyan
+
+cadáver, esqueleto, fantasma: red
+
+cemitério, templo: white
+
+funeral: yellow
+
+matemática: blue
+
+círculo: magenta
+
+https://www.starplus.com/
+https://noises.online/
+https://www.webtoons.com/
+https://azgaar.github.io/Fantasy-Map-Generator/
+https://libgen.is/

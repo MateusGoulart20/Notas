@@ -1,0 +1,25 @@
+#FAUNA
+
+#FLORA
+
+#FUNGUS
+	&Geliat
+	#Aparencia
+		Um bolor branco azulado,
+		uma leve penugem pontuda
+	#Comportamento
+		Transforma energia térmica em energia mágica
+		Sensivel a luz.
+		
+		&Sigilos: Consumo, Temperatura.
+	
+	#Habitat
+		Minas Profundas e cavernas de vulcão.
+		
+	&Acrec
+	#Aparencia
+		Um bolor vemelho-alaranjado
+		com uma leve gosma superficial
+	#Comportamento
+		Transfomra eneregia química em energia térmica.
+		Sensivel a umidade.

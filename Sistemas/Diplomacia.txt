@@ -1,0 +1,10 @@
+Politica:
+	Mão Amiga:
+		[por embaixada no exterior]
+			+1 influência.
+			-1 combate
+	Intercâmbio cultural:
+		acelera emissário por obra.
+		
+	Intercâmbio Científico:
+		acelera emissário por biblioteca

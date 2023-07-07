@@ -1,0 +1,64 @@
+$Edificações Maiores [Ocupa o ladrilho inteiro]
+
+Palácios/Assembleias/Tronos
+# Fornece:
+	4 de habitação
+	tem alcance de influencia.
+	
+Campus
+# Grande bonus em ciencia
+	
+$Edificações Menores [Ocupa parte do ladrilho] 
+	Palanque [-][Passivo]:
+		fornece cultura, ciencia e fé.
+	
+	Biblioteca [escrita][Passivo]:
+		fornece pequeno bonus dos campus.
+		
+		
+
+
+### Gerencia
+alimentos e produção: 'dinheiro'
+população e construção/manutenção.
+
+Cognis.
+	cultural, arte.
+	ciencia, pesquisa.
+	religiao, fé
+	
+Estado
+	burocrata, influencia lealdade.
+	militar, gera tropa
+	
+Gestão
+	comercio, organiza rotas e comercio exteriores
+	transporte, movimentação.
+
+Serviços
+	entreterimento, diminui estresse local.
+	saneamento, habitação melhores
+
+###Producao.
+a produção do ladrilho é usada no próprio ladrilho depois usada para o proximo ladrilho.
+	produção -> produtos
+		suprir necessidade de distritos ou construções.
+	alimentos -> suprem a população local e movimenta para os lados.
+	
+Recursos Naturais: 
+	Minerais:
+		Para serem trabalhados precisa de preparo.
+		Caso obsoletos, se transformam em produção.
+		Expls:
+			Ouro: relaxante: faz 4 {luxo_ouro}
+			Ferro: produtivo: faz 4 {ferro} ou 8 de produção.
+			
+	Biológicos:
+		São colhidos e incorporados.
+		Expls:
+			Ovelhas:
+				Fazenda colina: Pastos. +1 alimento.
+			Banana:
+				Fazenda Tropical: +1 alimento.
+			Borracha:
+				Fazenda Borracheira: +1 de produção.

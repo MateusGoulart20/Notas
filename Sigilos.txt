@@ -1,0 +1,112 @@
+Base:
+	Substantivo: Quadrado
+	Verbo: Circulo // Infinitivo-Particípio-Gerúndios
+	Adjetivo/Adverbio: Pentagono
+	
+	
+	
+	
+	Pronomes/Artigo => (substantivo) individuo, outro, indeterminado.
+		sujeito/objeto/pessoa/condição
+		
+		posse
+		
+		posição/expor/mostrar/demonstrar
+		
+		ou/existência
+		nulidade
+		ambudância
+		escassez
+		totalidade
+		alheio/acréscimo/(ambundância existência)
+		igualdade/proporção
+		unicidade/especificidade
+		pluridade
+		lugar/pergunta
+		quantidade
+		
+		união
+		conexão
+		positivo
+		oposição
+		separação
+		negativo
+		alterno/série/possivel
+		resposta
+		certeza = conhecimento positivo
+		dúvida = conhecimento oscila
+		razão
+		precisão
+		motivo
+		conhecimento conhecimento
+		
+		integro/inteiro/interior
+		
+		causa
+		consequencia
+		final
+		temporais[]
+		
+		condição
+		contraste
+		comparação
+		conformidade
+		
+
+	
+	Preposição: posição
+	Lista de preposições essenciais
+		a; ante; após; até; com, contra; de; desde; em;
+		entre; para; por; perante; sem; sob; sobre; trás.
+	Lista de preposições acidentais
+		afora; como; conforme; consoante; durante; exceto;
+		feito; fora; mediante; menos; salvo; segundo; senão; tirante; visto.
+	Exemplo de locuções prepositivas:
+		a fim de;  a respeito de; abaixo de; acerca de; acima de; antes de;
+		ao lado de; apesar de; atrás de; através de; de acordo com; de cima de;
+		debaixo de; dentro de; diante de; em frente de; em lugar de; em vez de.
+	
+	Triangulo Relacional
+	Numeral <- substantivo
+	
+	Pessoa especifica: 'gota de sangue' : RED MAGIC : red mist
+	
+	
+REFORMULAÇÃO: LINGUAGEM MÁGICA.
+	ADJETIVOS / ADVÉRBIOS: 
+	Substantivo => Verbo:
+	
+Conjução Lógica: Operador: E, AND, &&
+Disjução Lógica: Operador: OU, OR, ||
+
+Positv Igualdd Morte Fazer Cura 
++=Dead->Heal
+
+se ... então ...
+
+Escolas de Magia?
+	Material:
+		Fogo, calor, velocidade, ouro, tinta.
+	Mental:
+		(?)
+	Conhecimento:
+	
+Guildas?
+	Comercio?Magia?
+	
+	
+Magias mais importantes:
+Conhecimento: (blue)
+	Negativo/Positivo
+	Conhecer/Ler/Entender
+	Ver/Sentir/Ouvir
+	
+Energia: (green)
+	Esquentar/Pressionar/Levantar
+	Esfriar/Afrouxar/Descer
+	Mover/Refletir
+	
+Matéria: (red)
+	Água/Terra/Areia
+	Gelo/Madeira/Ferro
+	Tecido/Cristal

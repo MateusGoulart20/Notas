@@ -1,0 +1,54 @@
+Pode ser encontrado no plano de Blueness
+ou associado a um ser.
+
+#"O Contador de Estória"
+&( Poder[20], Suporte, 'Estória' ) // narrativa - contos
+	Monólogo [2]
+		"Seria falta de educação interromper."
+		Gasta uma rodada inteira e não pode ser alvo de nada.
+	Protagonismo [1]
+		"O centro das atenções faz o extraordinário."
+		Maximiza ou minimiaz uma %rolagem_numerica de %algo , antes de fazer %rolagem_numerica , mas após a %rolagem_de_teste , dobro de custo caso a %rolagem_de_teste seja crítico
+	%ataque
+		"Palavras doem"
+		%alvo recebe %dano_mental
+
+#"O Governante legista"
+&( Poder[20], Suporte, 'Ordem - lei' ) // regras
+	Vetar [2] 
+		"Suspender atividades inapropriadas"
+		Quando %algo usar uma %habilidade , o Anjo desabilita tal até o fim da cena.
+	Legislar  [5]
+		"Amparado por lei"
+		Após %algo usar uma %habilidade, o Anjo adquire a %habilidade até o fim da cena.
+	Autoridade [5]
+		"O poder da coroa"
+		%alvo se curva , parado até o próximo turno.
+	%ataque
+		"Palavra é lei"
+		%alvo recebe %dano_fisico de %arma
+		
+	
+#"O Caótico possível"
+&( 'caos' ) "Manipula a probabilidade para obter o caos dentro das possibilidades"
+	Aleatorizar [1]
+		"Visando o caos, tudo de novo"
+		Após a uma %rolagem_numerica ou %rolagem_de_teste de um alvo, faça a rolagem novamente. Não pode ser utilizada novamente para a mesma questão.
+	
+#"O Escolhido destinado"
+&( 'destino' ) // escolhas, divergências
+	Destinação [4] Great
+		"Algumas escolhas precisam ser tomadas deles."
+		Quando um %alvo for fazer uma escolha de %alvo , escolha o %alvo por ele..
+		
+	Escolhido [5] Great
+		"Aquele que fora evocado"
+		Usem em um %alvo , ele será obrigatóriamente %alvo de qualquer %poder utilizado nos próximos 2 %turno.
+		
+	
+	
+	
+	
+
+	
+		

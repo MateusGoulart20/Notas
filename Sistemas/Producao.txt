@@ -1,0 +1,27 @@
+Politicas:
+	Modernização:
+		adjacência a biblioteca: +1 de produção.
+	
+	Trabalho militar:
+		adjacência a quarteis: +1 de produção.
+		
+	Trabalho Presidiário:
+		administração governamental
+			+1 de produção.
+			+1 de estresse.
+			
+Pesquisa:
+	Estradas:
+		0 - terra.
+		1 - tijolos de pedra - pedreira
+		2 - pontes - serraria
+	Acesso ao mar:
+		1 - doca
+		2 - esta
+		
+Construções:
+	Aquedutos.
+	Bairros.
+	Canais. 
+	Represa.
+	

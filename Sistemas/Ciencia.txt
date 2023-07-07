@@ -1,0 +1,61 @@
+Rota Padrão de Tecnologias.
+
+#Edificação
+Biblioteca:
+	ciencia por cidadão
+	recebe bonus de Faculdade Nacional Especializada.
+	
+Faculdade Nacional Especializada:
+	F agricola: +2 alimento por fazenda.
+		Requisito: 4 fazendas.
+		Biblioteca: +1 alimento por fazenda
+	
+	F astronomia: +2 de ciencia por motanhas.
+		Requisito: 3 Montanhas.
+		Biblioteca: +1 de cienciapor motanha
+		
+	F naval: +2 de ciencia por recife.
+		Requisito: 1 recife, 1 porto, 1 rio.
+		Biblioteca: +1 de ciencia por recife.
+	
+	F medicina e farmacologia: -20% de estresse por cidadão.
+		Requisito: três bairros.
+		Biblioteca: -10% de estresse por cidadão.
+		
+	F administração: +2 de ouro por edif. gorvl.
+		Requisito: estrada e edif. gorvl[II].
+		Biblioteca: +1 de ouro por edif. gorvl.
+		
+	F filosofia e direito: +2 de influencia para cada.
+		Requisito: quartel, bairro e Gorvenamentl[3]
+		Biblioteca: +1 de influencia cada.
+		
+	F engenharia e fisica: +2 produção por mina
+		Requisito: 3 mina, e trilho.
+		biblioteca: +1 de mina.
+	
+	F ambietal: +2 de ciencia por selva e patano.
+		Requisito: 1 selva, 1 pantano.
+		Biblioteca: +1 de ciencia por selva e pantano.
+	
+	F de artes: -2 de estresse por estrutura artistica.
+		Requisito: opera, museu, transmissão de rádio.
+		Biblioteca: -1 de estresse cada.
+	
+	F de Comunicação: +2 de ouro por cada.
+		Requisto: Trilho, rio, torre de comunicação, internet.
+		Biblioteca: +1 de ouro cada.
+
+Politicas:
+	Racionalização:
+		[biblioteca][por cidadão]
+			+1 de ciênica
+			-1 de pressão religiosa.
+			
+	Estudo em Campo: 
+		biblioteca adjacente a mina
+		recebe +1 de ciência
+		
+	Estudos exteriores:
+		[acordo de rotas]
+		emissários fazem +1 de ciencia

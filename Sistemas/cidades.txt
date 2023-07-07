@@ -1,0 +1,34 @@
+Zonas de cidades:
+	Urbanas e Rurais. Diferenciar para poder ajustar politicas.
+	
+	Urbano:
+		Cidade: possui os edificios de funcionamento padrão da vida urbana.
+			* Palacio - Assembleia
+			* Biblioteca / Museu - Teatro /  / Parque - Templo
+			* Quadra => Estadio
+			* Quartel
+			* Mercado / Shopping / Oficina 
+		Distrito: Cidades especializadas
+			Logistico:
+				Comercial e de Abastecimento.
+			Industrial:
+				Refino e Fabricao
+			
+			Campus:
+				Ciencia
+			Cultural:
+				museus, teatros, cinema e afins
+			
+			Esportivo:
+				Esportes Diversos
+			
+				
+	Rural:
+		Vila Agricola: possui coisas simples para baixas densidade populacionais
+			
+		
+		Especializados
+			Reserva: Zoológico jardim botanico, 
+			Silvicultura : 
+			Piscicultura : Pantano++ rio+ 
+			Modelos afins.

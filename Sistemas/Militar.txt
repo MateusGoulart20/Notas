@@ -1,0 +1,18 @@
+Politica:
+	Defesa de fronteira:
+		por cidade estrangeira a 10 ladrinho
+			+5 de combate .
+			-5 de emissário.
+
+	Guerra de Religião:
+		por cidade estrangeira a 10 ladrinho seguindo outra religião
+			+5 de comabte
+
+	Produção a Guerra:
+		+20% para unidades de quarteis adjacente a industria.
+		
+Comandante:
+	
+Tropas:
+	
+	

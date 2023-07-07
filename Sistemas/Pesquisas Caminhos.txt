@@ -1,0 +1,195 @@
+Governo:
+	Código de leis. (gov)
+	
+	
+	
+Militar:
+	Guerreiros
+Comércio:
+	Comercio Exterior
+Agrícula:
+	Campos comuns
+
+
+Industri:
+	Trabalho Manuais
+Ciencia:
+	
+Religia:
+Arte:
+
+Civic
+Ancient
+	Código de Leis
+	Artesanato
+	Comércio Exterior
+	Tradição Militar
+	Trabalho Estatal
+	Inicio do Imperio
+	Misticismo
+Classico
+	Jogos
+	Filosfia Politica
+	Drama e Poesia
+	Treino Militar
+	Taticas defensivas
+	História Registrada
+	Teologia
+Medieval
+	Tradição Naval
+	Feudalismo
+	Serviço civil
+	Mercenários
+	Feiras Medievais
+	Guildas
+	Direito Divino
+Renasceça
+	Exploração
+	Humanismo
+	Serviço Diplomatico
+	Igreja Reformada
+	Mercantilismo
+	Iluminismo
+Industrial
+	Colonialismo
+	Engenharia Civil
+	Nacionalismo
+	Ópera e Balé
+	História Natural
+	Urbanização
+	Terra Arrazada
+Moderna
+	Conservação
+	Mídia de Massas
+	Mobilização
+	Capitalismo
+	Ideologia
+	Programa Nuclear
+	Sufrágio
+	Totalitarismo
+	Luta de Classes
+Atômica
+	Herança Cultural
+	Guerra Fria
+	Esportes Profissionais
+	Mobilização Rápida
+	Corrida Espacial
+Informação
+	Ambientalismo
+	Globalização
+	Mídia Social
+	Gorvernaça Futura*
+	(democracia digital)*
+	(libertarianismo corporativo)*
+	(tecnocracia sintética)*
+Futura*
+	Guerra de informação
+	Mitigação do aquecimento global
+	Hegemonia Cultural
+	Doutrina do poder Inteligente
+	Exodo Imperativo
+	***
+Techs
+Antiga
+	Ceramica
+	Criação animal
+	Mineração
+	Navegação
+	Astrologia
+	Escrita
+	Tiro com arco
+	Alvenaria
+	Trabalho de Bronze
+	Roda
+Classica
+	Navegação Celestial
+	Moeda
+	Montaria
+	Trabalho de Ferro
+	Construção naval
+	Matematica
+	Construção
+	Engenharia
+Medieval
+	Táticas militares
+	Contraforte
+	Aprendizagem
+	Estribos
+	Máquinas
+	Educação
+	Engenharia Militar
+	Castelos
+Renasceça
+	Cartografia
+	Produção em Massas
+	Bancos
+	Pólvora
+	Impressão
+	Aparelhamento Quadrado
+	Astronomia
+	Táticas de cerco
+Industrial
+	Industrialização
+	Teoria Cientifica
+	Balistica
+	Ciencia Militar
+	Poder a Vapor
+	Saneamento
+	Economia
+	Espingarda
+Moderna
+	Voo
+	Peças Substituiveis
+	Aço
+	Refino
+	Eletricidade
+	Rádio
+	Química
+	Combustão
+Atômica
+	Voo avançado
+	Foguetes
+	Balistica Avançada
+	Armas Combinadas
+	Plásticos
+	Computadores
+	Fição Nuclear
+	Materiais Sintéticos
+Informação
+	Telecomunicação
+	Satelites
+	Sistemas de Orientação
+	Lasers
+	Compósitos
+	Tecnologia furtiva
+	robótica
+	Fusão Nuclear
+	nanotecnologia
+Futura*
+	IA avançada
+	células de energia avançadas
+	Cibernética
+	Missão fora do mundo*
+	Sistemas predetivos
+	Seasteading(casa na agua)
+	Materiais Inteligentes
+	
+	
+	
+Terreno Base
+	Planicies +1 food +1 prod (varzea,selva,bosque)
+	Pastagem +2 food (varzea,pantano,bosque)
+	Deserto 0 (oasis)
+	Tundra +1 food (bosque)
+	Neve 0 ()
+	costa +1 food +1 gold (recife)
+	oceano +1 food
+	
+Caracteristica
+	Recife +1food +1prod (*costa)
+	varzeas (c/rio; s/hill) +2food (*deserto)
+	Fissura Térmica +1 cien
+	Oasis (*deserto) +3 food +1 gold
+	Pantano +1 food  (*pastagem)
+	Selva +1 food (*planice)
+	Bosque +1 prod (pata)

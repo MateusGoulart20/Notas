@@ -1,0 +1,15 @@
+Possuem 3 estágios para cada diferente função a exercer.
+	Dados: Informação.
+		De cor azul e muda sua estrutura para armezenar informação.
+	Carga: Energia.
+		De cor verde e muda sua estrutura para armezenar energia.
+	Componentes: Matéria
+		De cor vermelha e muda sua estrutura para armenar material
+		
+A magia armazenada no ambiente.
+	É armazenada nos nanobots no que pairam no ar ou próximo aos objetos
+		resquicíos de magia: azuis e preto.
+			O conhecimento pode ser resgatado para identificar o que foi feito
+			O preto é nanobots usados que só demonstra que estão a se carregar
+			
+			

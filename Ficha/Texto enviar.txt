@@ -1,0 +1,177 @@
+GUIA PARA CRIAÇÃO DE PERSONAGEM.
+Nesse Guia você terá informações essenciais para a criação de personagem.
+Para a criação, foi organizado por Etapas de processo.
+O primeiro será o geral o segundo o Específico. No Geral será determinada suas características básicas, já no específico apontará a sua classe.	
+	
+	Geral
+1° - Atributos.
+2° - Antecedente	
+
+	Específico
+3° - Habilidades.
+4° - Magias.
+	
+	Finalizando
+5° - Informações de Sistema
+
+//--//--//--//--//
+1° = Atributos.
+Nesse Sistema temos apenas 5 Atributos.
+- Vigor, vitalidade.
+- Força, intesidade.
+- Agilidade, prescisão.
+- Raciocínio, inteligência ativa.
+- Memória, inteligência passiva.
+
+Para fins de compreensão.
+[0] péssimo.
+[1] normal
+[2] bom
+[3] ótimo.
+
+Então inicialmente você tem 9 pontos para distribuir.
+
+Distribuição *exemplo.*
+Vigor[1]. Força[3]. Agilidade[3]. Raciocínio[1]. Memória[1]
+
+Facça uma distribuição do seu personagem.
+
+//--//--//--//--//
+2° = Antecedente
+Escolhendo o Antecedente, você adquire:
+	0. uma inspiração, para se tornar um aventureiro
+	1. bônus de atributo, a qual tirar 1 nos dados pode rejogar os dados, uma vez por teste.
+	2. bônus de profissão, habilidade +2 num teste relacionado.
+	
+Ex-Soldado:
+	Atributo: Força;
+	Profissão: armas;
+	
+Lenhador:
+	Atributo: Força;
+	Profissão: madeira;
+
+Fazenda:
+	Atributo: Vigor;
+	Profissão: cultivo;
+
+Mineiro:
+	Atributo: Vigor;
+	Profissão: minérios;
+
+Monastério:
+	Atributo: Memória;
+	Profissão: ritos;
+
+Pocionista:
+	Atributo: Memória;
+	Profissão: poções;
+	
+Artesão:
+	Atributo: Agilidade;
+	Profissão: artesanato;
+	
+Artista:
+	Atributo: Agilidade;
+	Profissão: arte;
+
+Acadêmico:
+	Atributo: Raciocínio;
+	Profissão: livros;
+
+Comerciante:
+	Atributo: Raciocínio;
+	Profissão: comércio;
+	
+Personalizado: falar com o mestre.
+
+//--//--//--//--//
+3° = Habilidades:
+Aqui você selecionará as habilidades de seu personagem.
+Dividido em três grupos. Comabte, Sensitivo e Mental. 
+
+#Combate: 
+	- Adquirir habilidades custam 1 ponto por nível. Máximo 2.
+	- total de pontos = [FORÇA] * [AGILIDADE]
+	- Catálogo de Armas no final em "Informações de Sistema"
+	
+	Disciplinas:
+		- Desarmado 
+		- Espada 
+		- Martelo 
+		- Florete
+		- Escudo
+		- Arco
+		- Besta
+		- Facas de arremesso.
+		- Dardos.
+		- Corda.
+
+#Sensitivo.
+	- Adquirir habilidades custam 1 ponto por nível. Máximo 3.
+	- total de pontos = [VIGOR] * 2;
+
+	Exercicios:
+		- Sons
+		- Olfato
+		- Paladar
+		- Visão
+		- Tato
+
+#Mental.
+	- Adquirir habilidades custam 1 ponto. Nível único.
+	- total de pontos = [RACIOCÍNIO] * [MEMÓRIA];
+
+	Conheciementos:
+		- História
+		- Religião
+		- Arte
+		- Medicina     
+		- Biologia
+		- Geografia
+		- Tecnomagia
+		- Glifos
+		- Alquimia
+		
+//--//--//--//--//
+4° = Magias Comuns. Todos conhecem.
+[02]: Remendar, Acender, Ver, Falar,
+[05]: Esquentar, Esfriar, Impulsionar, 
+[08]: Destrancar,
+
+//--//--//--//--//
+6° = Informações do Sistema
+Catálogo de Armas
+	- Duas mãos: Precisa das duas mãos para manusear
+Armas organizada por grupos e seus testes.
+Agilidade:
+	Faca de Arremesso: d6
+	Florete: d8
+	Lança: d10 (AGI: 2)
+	Arco: d8
+	Arco longo: 2d6 (AGI: 2) 
+	Besta: 1d12 
+Força:
+	Espada: d8
+	Martelo: d10
+	Espada Longa: d12 (FOR: 2)
+Raciocínio:
+	Runa: d4
+	Varinha: d6
+	Cajado: d8 (RAC 2)
+
+//--//--//--//--//
+LOJA: 140 dinheiros iniciais.
+[002]: virote, flecha
+[004]: runa, faca de arremesso
+[005]: Ração e água
+[015]: ervas medicinais.
+[020]: corda
+[030]: espada, florete, martelo, arco
+[050]: varinha, besta
+[060]: Arco Longo, Lança, Espada Longa
+[120]: Cajado
+//--//--//--//--//
+
+Raças Especiais:
+

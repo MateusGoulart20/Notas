@@ -1,0 +1,128 @@
+4 + 6 + 4 + 1 = 15
+
+
+
+
+F->A->W->E-+ // energy - space - time - matter
+F->W->E->A-+ // demon - abobinali - wild - celestia
+
+travel -> space-time
+substa -> energy-matter
+
+calendar:
+	eixo 0 -> no season -> equador mortal / inverno rígido -> sem trigo sem batata sem pinguin -> baixa diversidade e muita mortalidade.
+	eixo 45 -> caótico.
+	
+	moon calendar
+	
+	Lua: mecânico: sem vida, e cheio de máquinas.
+		Órbita presa <- outra face energia solar.
+		
+	moon base:
+		face:  
+		
+		
+Eixo Cenário:
+	Fantasia mágico renascentista
+	Pós Futurismo Psi-Magic
+	
+	Momento Narrativo
+		A Guilda: descobrindo como criar pólvora
+		O Reino: iniciando a sociedade oculta
+		O Império: 
+	
+	Linguagem->Magia
+		
+		
+1) Criar uma linha do tempo com os eventos que deram início a este mundo.
+– Que eventos passados o moldaram?
+
+2) Responder perguntas que delineiam o mundo:
+– Que regras estão em vigor? (Da lei da gravidade às regras sociais e às punições aos indivíduos que as quebram).
+– Que tipo de governo esse mundo tem?
+– Quem tem poder e quem não tem?
+– No que as pessoas acreditam?
+– E o que essa sociedade valoriza mais?
+
+3) Perguntas que criam o dia a dia:
+–  Como é o clima nesse mundo?
+– Onde os habitantes vivem, estudam e trabalham?
+– O que eles comem e como eles brincam?
+– Como eles tratam seus jovens e seus idosos?
+– Quais relações que eles têm com animais e plantas?
+– E os animais e plantas se parecem com o quê?
+– Que tipo de tecnologia existe? (Transporte, comunicação, acesso à informação…).
+
+
+
+
+EXAUSTÃO: desvatangem até descansar.
+aplicado quando:
+ esgotar sua mana
+ levar dano igual metade ou mais da sua vida
+ 
+Regenerações: /// *10points
+	descanso curto:
+		tira debuff:
+			exaustão.
+	
+descanso longo:
+	Vida. 1+2Vigor)
+	Sanidade. (1+2Memória)
+	Mana. (1+Mana) 
+	
+	
+(Status)
+Vida = 4(3+2Vigor.) / regen: 3+2Vigor.
+Sanidade = 4(3+2*Memória.) / regen: 3+2*Memória 
+Complex = Raciocínio // habilidade de manter multiplas magias.
+Esquiva = 8+2Agilidade
+Carga = 9+6Força
+Mágica = 5*Mana
+
+(status+)
+Bloqueio = Vigor*Força
+Corrida = Vigor*Agilidade 
+Acerto = Força*Vigor
+
+Condução = Mana*Vigor
+
+Feitiços = Mana*Sabedoria
+Processamento = Mana*Raciocínio
+Eureka = Raciocínio*Memória 
+
+
+
+//--//--//--//--//
+Vida/Sanidade: 12, 20, 28, 36. / regen: 3, 5, 7, 9.
+Reação = Raciocínio // habilidade de manter multiplas magias.
+Esquiva = 8, 10, 12, 14. 
+Carga = 9, 15, 21, 27.
+Mágica = 10
+
+//--//--//--//--//
+
+
+
+(Experiência)
+Apenas compra habilidades, sem a necessidade de acordo com um saldo numérico.
+
+Magia:
+A quantidade depende da espécie.
+
+Magias
+Truque de afinidade 2 mana.
+
+Escolas:
+Ilusão
+Energia.
+Espaço.
+Tempo.
+Transmutação.
+Artes Das Trevas
+Sacramento
+
+5+4:3,3,3,0,0
+5+4:2,2,2,2,1
+
+ervas medicinais: 2dVigor

@@ -1,0 +1,33 @@
+(x) Patrono
+[?] quando seres cognitam transferem suas mana para aquilo,
+atribuindo um poder àquilo.
+
+possuem um sistema hieraquico complexo.
+	cadeias longas ou unitário.
+
+grau de poder:
+	1) consciência. Passa a etender e compreender o ambiente.
+	2) manifestação. Passa a modificar o ambiente.
+	3) cognição. Passa a transmitir pensamentos.
+	4) sensorial. Passa a falar, produzir imagens, e tocar.
+	5) antropomorficação. Passa a ter um corpo.
+	** A personificação e personalidade pode ser um heroi relacionado.
+	**EXPL grande estrategista (ainda lebrado) da a aparencia do patrono
+	
+São dividos em três categorias.
+
+-↑ +↓ = Generalista 
++↑ +↓ = Intermediário 
++↑ -↓ = Especifico
+
+(X) Patrono/Anjo
+[?].. do Conceito Abstrato.
+/ Uma ideia/
+
+(X) Patrono/Fada
+[?].. do Conceito Prático
+/ Uma ação/
+
+(X) Patrono/Guardião
+[?].. do Conceito Material.
+/ Um lugar/ 

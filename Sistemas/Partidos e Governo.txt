@@ -1,0 +1,77 @@
+@Governo:
+$Niveis administrativos
+N0: 1: Nuclear
+N1: 7: Coletivo
+N2: 19: Regional
+N3: 27: Continental
+N4: 51: Mundial
+	
+$Partidos:
+Proprietários:
+	Clerigo, Educaionais, Artisticos, Comerciantes, Fabricantes e Fazendeiros
+Proletarios:
+	Fieis, Cientistas, Artistas, Negociadores, Operários, Trabalhador do campo
+	
+Templos, Centro de Pesquisa, Atelies, Centro comerical, Fabricas, Fazendas
+Cada um produz um felicidade intriseca ao grupo, de -3 a +3
+Onde -3: O distrito não funciona.
+Onde +3: O distrito duplica.
+Proprietários x Proletarios
+# privatizados causam infelicidade para a população
+# publicos sobrecarrega o governo que possui limite de controle
+	
+$Miliateres: partido especial
+suas falhas são desertores esse partido em especifico
+não possui interesses, mas são naturalmente descontentes 
+	
+@Estruturas:
+$Biblioteca
+&Imprensa
+# 5% mais cultura
+# +1 %arte, +1 %ciencia, +1 %faith por 4 cidadoes
+# +1 %literatura
+# custo 1 ouro.
+
+
+
+@Estruturas especificas
+$ Santa cidade.
+% Misticismo
+# Grand Templo. 
+# Importante para criar Religiões avançadas.
+
+
+
+@Politica Publica:
+$Religião Oficial:
+&Teologia, Religião:Caminho_Unico
+# +1 %faith, +100% %spreed_faith
+# Templos
+# + clerical
+
+$Pluri Religioso:
+&Teologia, Religião:Muitos_caminhos
+# +2 %faith, -50% %spreed_faith
+# Templos
+# +clerical
+
+$Estado Laico:
+&Humanismo
+# -1 %faith, +1 %ciencia
+# Templos
+# -clerical
+
+$Academecismo
+&Educação_Formal
+# +1 ciencia
+# Universidades
+# +cientistas
+
+$Obscurancetismo
+& Censura, Propaganda
+# -1 ciencia, +1 %faith
+# Universidades
+# -cientistas 
+
+$ Belas Artes
+& Preservação, ...

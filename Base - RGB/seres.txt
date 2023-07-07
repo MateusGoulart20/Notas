@@ -1,0 +1,21 @@
+Modificados.
+
+Construtores (RED).
+	Possui uma grande quantidade da tecnologia no modo de acomulação de matéria, então tem a tedência de terem uma vida mais forte. Com sistemas de fortalecimento entrelaçado nos músculos.
+Mentalistas (BLU)
+	Sua quantidade de tecnologia, foi especializada para conter informações, com isso eles tem uma boa memória e linha de reaciocínio, ficam em cargos desenvolvimentisas como pesquisa e engenharia.
+Condutores (GRE). 
+	Possui o corpo recheado de energia e é capaz de realizar pequenos feitos. Se empregam como versateis nos afazeres e comumente está envolvido com emergência e acompanha outros para auxiliar.
+
+Artesões (MGN).
+	Com força e mente necessária são capacitados a ocuparem cargos de construção e manipulação de ferramentas. O Ganho não é tão grande mas o corpo fica acostumado.
+Infudores (YEL).
+	Com força e energia são capases de causar trabalhos mais precisos que envolvam problemas de manipulação energética, como trabalhos em usinas, ou com forja.
+Experiencista (CYN).
+	Mente e energia, traduz em trabalhos precisos em laboratórios, no qual precisam de pequenas manipulações enquanto executa testes.
+
+Santos (WHI).
+	São pessoas que estão sobre a magnificiência da Singulariedade e é constatemente injetada com masi componentes visto que esse pode ter problemas no futuro. De forma que ele não pode sair de templos santos.
+
+Sombras (BLK).
+	Aqueles que tiveram algum problema com a Singulariedade, mas não pode ser morto. É rejeitado, mas a natureza não reconhecendo torna-se agressiva.

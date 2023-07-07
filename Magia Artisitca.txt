@@ -1,0 +1,32 @@
+Persuasão Indução Manipulação
+"Suas palavras, gestos e presença emitem um determinado sentimento"
+Exemplos:
+# Medo, Pavaor, Temor
+# Raiva, Ira, Irritação
+# Calma, Compassividade
+# Agonia e Angústia
+
+sugestão < imposição
+
+
+Enérgico:
+frio quente, movimento
+
+Conhecimento:
+Buscar + [Entidade]
+
+
+Fluxo.
+Blue: Magias de Conhecimento: saber, revelar, entender, achar.
+
+Green: Magia Enérgica: Calor, Frio, Impulso
+
+Red: Magia Física: Modificar, Manipular
+
+Blue Green (Cyan): Condições, 
+
+Blue Red (Magenta): Mecanismos
+
+Green Red (Amarela): Em
+
+Black-White: Destruição (Nulificação - Ansceção)

@@ -1,0 +1,249 @@
+concepts
+	game coins
+		faith 	- culture 	- science
+		food 	- money 	- production
+	game units
+		house	- transport	- amenty
+		army 	- spies		- governemt
+
+
+
+2A
+Belico religioso: Ordem Templária.
+	
+Belico Industrial: Conquistadores
+	
+Indutria Cientifica: Robôs.
+
+Arte e Ciencia:	Mestre Pesquisador.
+	 
+Arte Organica: Belezas naturais.
+	
+Organica Religiosa: Grande Mãe Terra. 
+2B
+Ciencia Belico: Ciencia da Carnificina: armas de destruição em massa.
+Belico Organica: Grandes montarias. Caçadores.
+Ciencia Organica: Biotecnologia.
+
+Industria religioso: Artefatos Religiosos.
+Cultura Industrial: Brinquedos e industria da cultura.
+Cultura Religiosa: Artes Sacras.
+	
+2C
+Arte Belico: Arte Nacional.
+Ciencia Religiosa:	Deus Alien: tecnologia estrangeira
+Industria Organica: Maquinas vivas.
+
+3 -> 20 possibilidades e já fica confuso.
+
+FG
+Aliança do Saber:
+Arte - Religião - Ciencia.
+Aliança do Poder:
+Comercio - Industria - Militar.
+
+Correção:
+Religião 	-> Ocultismo
+Militar 	-> Mercernários
+Industrial	-> Escravidão
+Ciencia 	-> Desumano
+Cultural 	-> Elitismo
+Ambiental 	-> Predatório
+	
+Extra:
+Comercio -> Tráfico
+Estatismo -> Espionagem
+	
+####
+
+Misticas:
+	Vampiros
+	Lobisomens
+	Bruxas
+	Anjos
+
+ExtraCenar:
+	Floros, Faunos, Fungis
+	Celest, Demons, Abissm, Wild.
+
+
+Cultura e Comercio: Tangente a tudo.
+
+Belico: Militares 
+Comerc: Comercio / Dinheiro / Negocioação / Aliança
+
+Cienti: Ciencia 
+Religi: Religião / fé
+
+Indust: Produção
+Populs: Alimentos / População / Mão de Obra / Casas / Infraestrutura / 
+
+Oposto a Industria - Trabalho:
+	Joias, brinquedos, jogos, lazer.
+	Parques, Conservação, meio ambiente.
+
+Trabalho -> Lazer:
+
+	Centro de Exposição.
+	
+	Entreterimento:
+		
+		Esportes Jogos.
+		Parques
+			Ecologicos.
+			de Diversão.
+		Brinquedos e Produtos.
+		Midia, livro, filme, musica.
+				
+		
+
+
+
+População:
+	Entreterimento
+	Alimento
+	Local
+	
+	
+People <- meio
+Necessidade:
+	Alimentos e Água
+	Moradias
+	Anti-estresse
+Trabalho:	
+	Material:
+		Produção
+		Recurso-estratégico
+		Luxo
+		Alimentos
+	Cognis:
+		faith
+		ciencia
+		arte
+		
+		entreterimento
+		militar
+		comercio
+		burocrata/medicina/transporte
+	
+	
+#Politicas - XOR - Especificas
+Minas em luxo:
+	Acabamentos delicados
+		+1 cultura.
+		-1 produção
+	Blocos de Construção
+		+1 produção.
+		-2 ouro
+Minas em estratégico:
+	Primazia Militar:
+		-2 produção.
+		acelera extração.
+	Reforço Industrial [Apenas obsoletos]
+		+2 produção.
+		consome extração.
+		
+#Biologicos:
+Fazendas:
+	Modelo.
+		Estrategico / Produção
+		Cultivo / Alimento
+		De Luxo / Ouro
+
+Requisitos:
+	Colher uma especie.
+	Civico
+	Tecnologia.
+	
+	
+Governo e Territorio.
+	Território.
+		Pode ser trabalhado.
+			A fim de se produzir algo
+		construido
+			A fim de se especializar construindo algo.
+		
+		privatização
+			Não gera mais custos
+			Não gera lealdade
+			Não gera influencia
+			
+			pode ser comprado por outro
+				custos.
+				lealdade estrangeira
+				influencia estrangeira
+				
+				nacionalizar
+					perde grande influencia
+					perde grande lealdade
+					
+					rotas comercias com estrangeiro
+						causa mais influencia
+		
+	
+	Territórios podem ser conquistados e dermacados.
+	Mas a quem realmente pertence é uma questão a parte.
+	
+	Um terreno pertecente a uma nação pode ser colocado a venda para que não gere custos.
+	
+	
+?A influencia indica o grau de confiança entre as partes
+Influência Comercial:
+	Basico
+		ouro simples
+	Nivel 1:
+		Visão do territorio
+	Nivel 2:
+		politicas comercias
+	Nivel 3: 
+		rendimento por edificação
+
+@@@Acessor
+Industrias Organicas:
+	Platações Industriais
+		Platações de Luxo
+			+1 Produção e +2 ouro
+	
+	Material Ecologico
+		Serraria e Fazendas
+			+1 produção
+			
+	Material Reciclavel
+		Emissões de Carbono
+			-20% por construção
+			
+Recreação Natural:
+	Parques Ecologicos
+		Parques
+			- emissões
+
+	Uso Recreativo
+		platações de luxo
+			+1 serviço
+
+Deuses Naturais:
+	Espiritos da Natureza
+		Floresta, pantano, selva.
+			+1 de fé
+	
+	Acampamento Religioso
+		[Edificação em flroesta][zona exclusiva]
+		+4 fé, +2 alimento.
+		
+Artes Marciais Espirituais:		
+	Espada Divina:
+		{Edificação militar}
+			+1 fé.
+			
+	Por Deus:
+		{edificação religiosa}
+			permite treinamento de unidades.
+			
+Deus Alien
+	Fé Relativa
+		{edificação cientifica}
+			diminui a fé estrangeira
+	
+	Numeralogia
+		{edificação religiosa}
+			+1 ciencia

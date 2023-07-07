@@ -1,0 +1,107 @@
+Coleção:
+	Quantidade de itens culturais.
+	Cada item causa influência através de sua edificação.
+		edificação iguais não podem estar próximas.
+Edficação: 
+	livro: biblioteca, opera.
+	pintura, escultura, artefato: museu
+	música: opera, transmissão de rádio.
+	filmes: transmissão de rádio.
+	jogos: *
+	[internet - afeta o lote com todas as artes] : Biblioteca Nacional Digital
+	
+Obras:
+	escrita: livro
+	tintas: pintura
+	pedras ornamentais/preciosas: escultura
+	quimica: filmes
+	internet: jogos.
+Artefato:
+	Geração: Pilhagem e unidades perdidas, pode deixar um artefato.
+	Uso: Recolher ou Preservar.
+		Recolher: retira o artefato e adiciona a coleção.
+		Preservar: Transforma o ambiente em influência e cultura.
+		
+	Local: Aparecem no mapa, e são recolhidos
+	
+Pesquisa:
+	Civicos de cultura
+	Governo e ações públicas.
+	Preocupações:
+		Global Warming
+		Conservação
+		Urbanização
+		Industia
+		Comercio
+		População
+		Guerra
+		...
+	
+Politica:
+	Adornos:
+		minas em recurso de luxo dão
+			-1 produção.
+			+1 cultura.
+		[recursos de luxo]
+			pedras ornamentais/preciosas
+		
+	Carga Reduzida:
+		minas:
+			-1 de produção.
+			-1/2 de estresse.
+			
+	Inspiração divina:
+		edificação religiosa dá bonus em edificação artistica.
+		
+	Inspiração exterior:
+		+1 de cultura por emissário.
+		
+		
+		
+Desenvolvimento:
+	#nivel 1
+	Escrita:
+		Fonetica:
+			+10% cultura
+		Ideograma:
+			+1 escritura
+	Musica:
+		Ritmo:
+			+10% cultura
+		Melodia:
+			+1 musica
+		Harmonia:
+			+1 %faith
+	Escultura:
+		Religiosa
+			+1 %faith
+		Humanista
+			+1 %arte
+	# nivel 2
+	pintura: 
+		Conceitual
+			+1 arte
+			Religiosa
+				+1 faith por edificação religiosa
+			Histórica
+				+1 arte por edificação artistica
+		Humana
+			+10% cultura
+			#Pintura de Gênero
+				+1 ciencia
+			#Retrato
+				+1 ouro
+		Paisagem
+			+1 pintura
+			Natural
+				+1 pintura por 2 natureza
+			Urbana
+				+1 pintura por 2 edificação.
+	
+	cinematografia
+		Muitos subtipos
+	artefato
+	# nivel 3
+	jogos
+	
+	[internet - afeta o lote com todas as artes] : Biblioteca Nacional Digital

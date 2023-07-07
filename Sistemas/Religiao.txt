@@ -1,0 +1,73 @@
+RELIGIÃO
+	Aumenta influência e lealdade.
+
+
+Edificação.
+satuário -> templo
+
+
+santuário:
+	<edificação>
+		fé +1 por fiel.
+		
+
+Crenças: <adquirindo com fé>
+	Peregrinação
+		Requer: edificação religiosa a 30 ladrilhos.
+		+1 de fé mais distante
+		para: templos | cidade santa | santuário
+		
+	#Artes Sacra:
+		Iconografia: Pinturas e Esculturas +1 de fé.
+		Coro: Musica +1 de fé.
+		Livro Sagrado: Literário +1 de fé.
+		Relicários: Artefatos +1 de fé.
+	
+	#Guerra Santa
+		Libertação: bonus se maioria religiosa
+		Mudanos: bonus se não forem
+		pela Espada: +10 de fé por habitante na cidade conquistada
+	
+	#Construção:
+		Templos: [Edificação]
+			Requer: Rochas Ornamentais
+			fé +2 por fiel
+			
+		
+	#População:
+		Ritos funerários:
+			Perder uma população
+			+50 de fé.
+			impulso de pressão religiosa
+	
+		Inicialização:
+			Ganahr uma população
+			+25 de fé.
+		
+	Idolos:
+		Metais preciosos +1 de fé.
+		Rochas Ornamentais + 1 de fé.
+		
+	Rei Divino:
+		Requer: Autarquia
+		+5 de fé da capital
+	
+	#Buff por terreno. 
+	Requer: uma edificação religiosa com 4 cópias do terreno em questão
+	
+		Espirito selavgem: selva.
+		Espirito boreal: tundra.
+		Espirito solar: deserto.
+		Espirito manguezal: pantano.
+		
+Politica: Agrada Religiosos e Descontenta Cientistas.
+	Religião Oficial:
+		Tropas podem perserguir infieis.
+			<Inquisar>:
+				20 de estresse na ação.
+				20 de fé.
+	Divino Saber:
+		[biblioteca][por cidadão]
+			ao invés de ciência, produz fé.
+	Festival Sacro:
+		pressão religiosa dá influência

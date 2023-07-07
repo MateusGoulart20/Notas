@@ -1,0 +1,149 @@
+#MILITARISMO : Quarteis" : Unidades por turno
+Pesquisa
+	Complexidade tropas + Disciplina.
+	"Quantidade de batalhão por comandante"
+	"Quantidade de batalhão"
+	"Quantidade de comandante"
+	"Lealdade de forças"
+	"Políticas militares"
+Comandantes
+	podem morrer e ser sacrificados
+	"Comandante morre com a tropa."
+	"Comandante sacrificado produz habilidade passiva"
+Edificação militar
+	Ensina habilidade passiva.
+	Acelera educação comandante.
+	Acelera coersão de tropa.
+
+#RELIGIÃO : Templo" : Pressão Religiosa
+Pesquisa
+	"Adicionar crenças"
+	"Bispos"
+	"Políticas religiosas"
+Bispos
+	"Influenciam a cidade para a religião"
+	"Inquisição"
+Edificação
+	"Uma pequena influência passiva"
+	"Acelera criação de Bispos"
+
+#CIÊNCIA : Escolas" : Tecnologias
+Pesquisa
+	"Normal"
+	"Cientista especialidades"
+Cientista
+	"Pré requisitos para ser instalado"
+	"Bônus forte para a região"
+Edificação
+	"Diminui a pressão religiosa"
+	Escolas: aumenta produção adjacente em 1.
+	Faculdade Nacional: Dá um bônus específico forte. E da metade do bônus para bibliotecas.
+		
+		
+#GOVERNO : Assembleia/Palacio : lealdade e alcance administrativo
+Pesquisa
+	Pontos administrativos.
+		capacidade
+		abrangência
+		quantidade
+		lealdade
+	Formas de governo
+		participação
+			federados
+			lobby
+			influência
+			estabelidade
+	politicas
+		adotadas
+		capacidade
+		
+
+#ARTES : Museu* : diversão e artigos de cultura.
+Pesquisa
+	Escolas de Arte
+		efeitos críticos.
+	
+
+
+
+#Filosofia : população : avança nas outras culturas. 
+Pesquisa
+	Civic tree:
+		leis/politicas ->
+		ciência -> 
+		comercio ->
+		diplomacia ->
+		industria ->
+		exploração
+		artes
+
+
+Vitória Ideológica, bombardeia adjacentes com lealdade
+	$Ocupação: [tropa rebelde][por turno][por lealdade]: (local-estrangeira)/(local+estrangeira): 1 = tropa local, -1 = tropa estrangeira.
+	
+		Cultural: Cultura gerada = turismo.
+			(cultura_local-cultura_estrangeiro)+edif; 
+			
+		Cientifica: 
+			(tech_local-tech_estrangeiro)+edif;
+		
+		Religioso:
+			(beliver_local-beliver_estrangeiro)+edif;
+			
+		Diplomatico:
+			(reputacao_local-reputacao_estrangeiro);
+		
+Vitória Material, inutiliza e atrapalha o funcionamento da cidade
+	
+	Cerco: 
+		[alimentar]
+			corta as fontes de alimentos.
+			cidade passa fome gerando estresse.
+		[fabril]
+			corta fornecimento, diminuindo a produção
+		
+	Comercial
+		Para cada ponto de pressão ideológica
+			+ 1 ouro.
+	
+		&Empresas
+			Tipos:
+				agricolas: alimento
+					fazenda, campo, pasto
+				industrial: produção
+					mina, serraria, cultivo
+				admnistrat: distrital
+					financeiro, campus, teatro
+			Modos:
+				privada: 
+				estatal: -2 ouro, +tipo, +pressão nacional
+				externa: +4 ouro, +pressão estrangeira
+					pre: civico.
+					dono: tipo|recurso
+					war: empresas falem => pilhadas. => privadas.
+					estatizar:
+						forçado: -reputação
+						comprado: n ouro
+	
+
+
+
+
+
+
+
+coisas pequenas não são observaveis:
+casas. igrejas. mercados. enfim.
+
+Civic List
+Civics are arranged in a total of 7 different categories. These are (from left to right on the in-game Civic table):
+
+
+ 6 Justice Civics, Civics related to the treatment of criminals and other civil issues.
+
+7 Economy Civics, Civics related to public spending and investment.
+5 Army Civics, Civics related to military and martial matters.
+7 Government Civics, Civics related to the organization of your ministry and politics.
+4 Society Civics, Civics related to day-to-day life in your Empire.
+5 Culture Civics, Civics related to cultural issues and art.
+6 Religion Civics, Civics related to beliefs and what is acceptable or not.

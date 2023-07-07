@@ -1,0 +1,255 @@
+
+= Planeta Artificial.
+{}Criado a partir de observações em outros planetas, 
+tal planeta foi criado com pilares negros os quais são da terra formando obeliscos.
+Tais estruturas canalizam a magia Green, e fazem o campo mágico se espalha ao derredor.
+O planeta artificial não obede as regras de geração de mundo desenvolvido como o nosso.
+Suas cavernas são grandes espaçadas, e seu núcelo foi artificialmente desenvolvido.
+Para os moradores do planeta, é possivel encontrar estruturas antigas quase ruínas criadas pelas entidades.
+Não possui inclinação em seu eixo, portanto não há estações ou coisa semelhante, com isso o clima é constatne.
+Suas cavernas não são quente, por não ser aquecido por convecção interna, mas por um núcleo massivo falso.
+
+
+Antigas Instalações.
+{} A mera presença do obelisco, é um grande emissor de magia, o que é bom por sempre poder fazer feitiços abundantemente.
+ruim pela facilidade que criaturas mágicas surgem. doenças mágicas. 
+
+
+Árvores do poder.
+{} Árvores únicas que em seu núcleo possue.
+= Árvore fria: Aversa ao calor Suas raizes e tronco de cristal, 
+se encontram em um poço de gosma translúcida com suas folhas de gelo crescendo.
+Se encontra numa ilha lamacenta, onde sua praia é de areia branca.
+Mas um nevoeiro esconde boa parte do chão e a frente tornando um lugar complicado de trafegar.
+Em busca de gelo mágico das algas da gosma os exploradores buscam.
+- gelo cristal gosma
+- portal: água.
+
+== Árvore sufocada: com o ar pesado ao seu redor, tal árvore é metálica.
+Vive em um poço de gosma ácida. Essa árvore é escondida dentro de uma caverna no fundo de uma montanha.
+Em suas raízes cresce um poderoso metal que não se corrói. O ácido é formado por um rio rico em materiais,
+que se encontram em um lago de lava que evapora e pinga pelo teto da árvore.
+- acido gosma metal (metal inoxidavel: corpo de fundo) (gosma acida: poço) (metal gosma: nas raizes)
+- portal: terra.
+
+== Árvore seca: em um certo deserto coberto por fumaça e areia. Sente-se o solo quente,
+o magma se aparenta aos poucos interligado por raízes metálicas eletrificadas,
+ligando a uma árovre seca que possui folhas de cristal, ao seu redor é comum cair diversos raios.
+Exploradores buscam suas folhas de cristal que são mais resistentes a grande correntes de mana.
+- metal cristal raio
+- portal: fogo.
+
+== Árvore do pântano: Num grande maguezal de tempestade de raios,
+se apondera um grande nevoeiro e vapores se levanta. Uma fumaça esconde o céu.
+Na árvore gelo se forma em suas ráizes e um ácido escorre como uma seiva.
+Ela atrai os raios para sua copa, mas sua seiva absorve se tornando tanto
+elétrica quanto ácida.
+- acido raio gelo
+- portal: ar.
+
+Opostos Elementares: fogo-agua. Ar-Terra.
+Alinhamento Opostos: fogo-terra. Ar-Agua.
+Conjunção Polar: Fogo-Ar. Agua-Terra.
+
+
+
+ = Primarias
+energia / fogo  - vulcão/lago de lava
+espaço / ar     - uma nuvem estática
+tempo / agua    - oceano profundo
+materia / terra - 
+ = Secundárias
+fumaça-raio / trabalho		- 
+vapor-acido / corrente		- 
+lava-metal / entalpia		- 
+nevoa-gelo / velocidade		-
+po-cristal / densidade		-
+lama-gosma / decaimento		-
+ = Terciarias
+*fogo. - Gravidade?
+*ar.   
+*agua.
+*terra.
+
+raio cristal metal / fumaça poeira lava
+acido metal gosma / vapor lava lama 
+ raio gelo acido / fumaça névoa vapor
+gelo cristal gosma / névoa poeira lama 
+
+
+
+As pessoas que nascem com algum tipo de conceito, ao conhecer-lo entende melhor suas habilidades unicas
+mas quando descoberta por um inimigo, pode simplesmente usar um magia de bloqueio de sigilo/conceito.
+
+
+ Vendas dos olhos: aumenta o campo de visão. Visão mágica?
+	[r,g,b]{liquido espesso; raizes e dispersão em raios; quadrados e cubos holográficos}
+	[y,m,c]{tentaculos;;} 
+ 
+
+
+Relemebrar alfabeto fonetico
+Linguagem deles / gui -> gui, guo, gua, gue,? 
+a e i o u / ô ó 
+b c d f g 
+h j k l m 
+n p r s t 
+v x z 
+
+
+
+Critico para dados.  
+[1]= 1/20 = 0.05 -> 5%
+[2]= 39/400 = 0.0975 -> 9.75%
+[3]= 1141/8k = 0.142625 -> 14.26%
+[4]= 29679/160k = 0.18549375 -> 18.549%
+[5]= 723901/3200k = 0,2262190625 -> 22.62%
+[6]= 16954119/64M = 0,264908109375 -> 26.49%
+
+
+
+
+AlibosJait.
+Fogo - Combustiveis: 
+Combustiveis -> Energia / Matéria - Entalpia 
+
+Lama, Lava, poeira, vapor, fumaça, névoa.
+
+
+
+ A Morte Encadeada.
+ Morto-vivo*
+ Transformações:
+	Sete-Peles: <controle>
+		"A pele se solta o corpo do cádaver e começa a flutuar em frente"
+		Contrição e Sufocamento.
+	Osktor: <melee>
+		"O Ossos se desprende e forma uma unidade corpo a corpo."
+	Musla: <melee caster> 
+		"Os músculos sem movimentam a frente deixando as visceras para trás."
+		Pode escolher entre levar dano do inimigo sacrificar uma parte do corpo para causar dano.
+			- BraDir
+			- BraEsq
+			- PerEsq
+			- PerDir
+			- Torso.
+			- Cabeça
+		
+	Sacrifical <caster> // não vai se defender, mas vai causar o feitiço me cima do alvo.
+		"Retira orgãos por orgãos para causar dano a frente em um inimigo.
+		Interno: dano+testVigor
+			- Pulmão {sistema respiratório}
+			- Estômago{digestório superior}
+			- Intestino{digestório inferior}
+			- Rins+bexiga;
+			- Coração
+			- Cérebro
+			- olhos, nariz, ouvidos, lingua. feitiço menor
+		
+		
+Criaturas sensorias do terror.
+Inumanas -> mágicas.
+	O Desconhecido.
+		Criatura estritamnete invisivel, enorme.
+		Apenas visivel através de visão mágica.
+		Para questões materiais a criatura é cega.
+		- Agressiva.
+		- Alto nível.
+		
+	O Silêncio.
+		Criatura enorme que não produz som, mas possui bastante olhos.
+		- Agressiva e alto Nível.
+		
+	
+	
+
+ 
+
+	
+6Conver: Fronteiras 
+	O Observatório: Fogo Ar. (FumaçaRaio)
+	
+	O Porto: Ar Agua. (NévoaGelo)
+	
+O Botânico: Agua Terra. (LamaGosma)
+	Lugar onde se planta com facilidade.
+O Alquimista: Fogo Agua. (VaporÁcido)
+	Solvente para poções.
+A Forja: Fogo Terra. (LavaMetal)
+	Criação de ferramentas.
+O Cristalário: Ar Terra. (PóCristal)
+	Criação de jóias.
+
+Presença mágica.
+	Tudo que possui alguma magia emana a sua complexidade mágica.
+	Não existe niveis negativos.
+	0: Não mágico, inerte.
+	1: Pessoas e animais comuns.
+	Apenas a magia comum.
+	2: {} Para seres que possuem uma certra
+	transformação com a magia.
+	3: Irreais: patronos e criaturas, são apenas mágicos.
+	
+	   
+
+	
+fogo ar agua  - raio ácido gelo - fumaça vapor névoa -
+fogo ar terra - raio metal cristal - fumaça lava poeira - .
+fogo agua terra - ácido metal gosma - vapor lava lama -
+ar agua terra - gelo cristal gosma - névoa poeira lama -
+
+
+Anjo ou Guardião:
+
+^Re-Elemento^
+Comprimento
+Massa (+Quantidade de substância)
+Tempo
+Energia{
+	Corrente elétrica<false>
+	Temperatura termodinâmica
+	Intensidade luminosa
+}
+
+Os 4 tipo de sigilo.
+- Espaço: Orientação e formato.
+- Energia: Quantidade e Intesidade.
+- Matéria: Elemento e Composição.
+- Tempo: Duração e Ciclos
+
+ R G B
+ 
+Energia Espaço Tempo Materia.
+
+3(+)4 =~=
+
+[Green] Energia.
+Materia [Red].
+Espaço Tempo
+[Blue]
+
+Talvez o conceito de tempo é algo abstrato e especial.
+
+
+Sigilos conhecidos.
+Ação/Movimento <yang>:
+	Emissão: orientado em linha reta.
+	Imbuir: Adentrar em algo próximo.
+	Consumir:
+	Criar:
+	Esquentar:
+	Esfriar:
+	Brilhar:
+	Alterar:
+	 
+	
+	
+	Foco/Lente/Alvo. (Núcleo)
+		Material	-> Agua, Terra, Madeira, Ferro, Cor, Fogo (Como forma de um fenômeno corrente), [vazio]()
+		Forma		-> Linha (frente/curva), Cone, Esfera, Cubo.
+		
+	Evento/Ação. (Aneis)
+		Tempo
+		Atividade
+	Condição. (Luas (outro feitiço/))
+		Tempo...

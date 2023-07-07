@@ -1,0 +1,69 @@
+#Biológico, Vida
+	B: Cura, Medicina | Doença, Praga
+	B: Morte | Nascimento
+	
+		#: Veneno, Tóxico
+		
+	Y: funeral, enterro, cemiterio.
+	
+	#: Animais.
+		#: ...
+	#: Plantas.
+		#: ...
+	#: Miasma [Fungos, bacterias e protozoários]
+		#: ...
+	
+	
+#Conhecimento, Saber
+	#: Desconhecido
+	#: Indeterminado
+		#: probabilidade, possibilidd
+		#: caos, aleatorio
+	#: pensamento, ideia.
+		#:
+		#: questões, perguntas
+		#: condições
+		
+	
+	#: tecnologia, sistema, metodo
+		#: cultivo : agricultura, pecuaria, silvicultura
+		#: artesanato
+		
+	
+#Fundamental, Primordial
+	#: Poder, energia, força
+		#: Potencial
+	#: Tempo
+		#: Memória, Passado, Registro, Antigo.
+		#: Presente, Atualidades.
+		#: Futuro, Professia, Previsão, Novo.
+		#: ciclo, repetição
+		#: constância, perene
+	#: Espaço, Viagens, Caminho, Passagem
+		#:Fronteira, Limite, Contorno
+	#: Materia, Substância
+	
+#Humano-Socais
+	#: Equilibrio
+		#: Justiça, honestidade, verdade
+		#: Trapaça, engano, mentira
+	#: lei, ordem, dever
+	#: Emoções
+		#: furia, raiva, ódio
+		#: felicidd, alegria
+		#: tristeza, lamento
+		#: satisfação, tranquilidd
+
+#Magia: [?] Conceito Único.
+
+#: Singulariedade, Unidade
+	#: Só, Solidão, Solitário, Unico
+#: Tudo
+#: Nada
+#: Part, Maior, Minor
+
+
+
+		#: Cádaveres. 
+		#: Esqueletos.
+		#: Almas e Fanstasmas. 

@@ -1,0 +1,167 @@
+IDEOLOGIAs
+Roda 6: Belico-Industria-Ciencia-Diplomacia-Cultura-Religião-
+Meio ambiente: Preservação # Exploração   : industria - ecologico/cultura/serviços
+ Norma Social: Progressista # Conservador
+   Diplomacia: Cooperativa # Nacionalista : militar - diplomacia/pacifista
+    Liberdade: Coletiva # Individual
+  Organização: Unitário # Federado
+     Economia: Planejada # Orgânica
+
+
+Delta: Belico - Ciencia - Cultura: Ordem Secreta
+	Formentadores de Guerra e Espionagem
+Atled: Industria - Diplomacia - Religião: Seita Maquina.
+	Expansão sobre fronteiras.
+
+Produção:
+	industrial: minas, serraria,  
+	agricola: fazenda, cultivo,
+
+Infraestrutura:
+	Saúde:
+		saneamento -> vilas
+			encanamento-> prédios
+		
+		
+	Transportes: 
+		água: aqueduto
+		rota: trilhos, estradas, canal, porto
+		tech: eletricidade, sinal
+		fuel: gaseduto oleoduto 
+
+Construção:
+@Economico
+     Monetário: bancos, caravanas, galeria, atacado, 
+        Fabril: mina, fabrica, serraria, 
+ Abastecimento: fazenda, pomares.
+ Infraestrtura: aqueduto, ruas, eletricidade/gas, saneamento
+
+@Cultural:
+ Cultura|Seriços: Museu, teatro, musica, dança, Esportes, Festivais.
+  Religioso: Templo, cultos.
+  Ciencia: escolas, universidades.
+ 
+@Gorvenamental
+ Administrativo: 
+ Belico: quarteis.
+ Diplomático: 
+ 
+
+Crescimento e Infraestrura [Comodidades
+	= remédios/alimentos/agua/
+	= casas/saneamento/agua/
+	
+Pessoa + trabalho => produto + estresse.
+{estresse =+-= estabilidade.}
++ qualidades.
+
+
+Universal: Comércio e Cultura
+
+
+
+MC : Diplomático Cientifico.
+Bioma: Deserto/Neve/Oceano/Motanhas.
+	Construção Geral:
+		1)Torre.
+		2)Sistema de tuneis.
+		3)Flores negras por fora.
+
+Religioso Serviçal
+Bioma: Patano/Floresta/Selva
+	Construção Geral:
+		1) Grande Árvore
+		2) Casa nas copas//redes.
+
+Industria Belica
+Bioma: Planice/Padraria
+	Construção Geral:
+		1) Palacio
+		2) Muros
+
+MC.RS.IB.
+
+IDEO:
+	Religião
+	Militar
+	Indsutria -> Work / Maquinas / Produção
+	Ciencia
+	Arte
+	Ambiental
+	
+	População
+		Entreterimento:Espaço Multievento
+	Governo/Diplomacia
+	Comercio
+	Infraestrutura
+		Urbanismo. -> Underground.
+		Transporte -> Trafico.
+	Serviços
+		%Cassino
+		Medicina	%Drogas
+		House		%Sluts
+	
+	
+	Religião 	-> Ocultismo
+		Cultistas:
+			Pressão religiosa
+			Bonus: ideologias adjacentesi
+	Militar 	-> Mercernários
+	Industrial	-> Escravidão
+	Ciencia 	-> Desumano
+	Cultural 	-> 'Elitismo'
+	Ambiental 	-> Predatório / drugs?
+	
+	Extra:
+	Comercio 	-> Tráfico
+	Estatismo 	-> Espionagem
+
+
+#Serviços	
+	Educação
+		Cultura
+		Tecnologia
+	Segurança
+	Economia
+		Infraestrutura
+		Empresas
+		Exploração
+			Madeira Mineral
+		Alimento
+			Agricola e Animal
+	Saude
+		Meio Ambiente
+		
+		
+	Meio Ambiente
+	
+###
+Dual:
+	Industria - Ambiental
+	Fé - Ciência
+	
+	
+Tangecial:
+
+	Comercial 
+	Arte
+	
+<Militar Diplomacia>
+
+Economia
+	Produção:
+		@UP
+		Religião - fé
+		Ciencia - pesquisa
+		Arte - cultura
+		@KEEP
+		Industria - produção -> edificios / maquinas / ferramentas
+		Agricultura - alimento -> população / conforto
+		Militar - tropa
+		Comercio - dinheiro
+		Entreterimento - happiness
+		
+		
+	
+côvado: A medida de seu cotovelo até ponta de seu dedo do meio
+melíflua:Que flui ou verte como o mel. Muito doce, açucarado: fruto melífluo. [Figurado] De natureza agradável, suave, harmoniosa: voz melíflua.

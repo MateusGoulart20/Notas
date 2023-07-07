@@ -1,0 +1,70 @@
+O Planeta e Ruinas.
+	O planeta é bem peculiar e não segue algumas caracteristicas comuns
+	Seu interior é poroso, formado por Condesadores e Retificadores
+	Por isso seu interior tende a ser mais frio, exceto a zona Danger
+		Zona próximo do núcleo de compreensão.
+	a qual é perigosamente quente, e possui uma cupula de afastamento e de flutuação
+	O interior é mantido por um estranho sólido negro que brilha ocasionalmente.
+		estranhamente carregado de sigilos, mas forma os andares do mundo.
+	
+# Condesador e Retificador:
+	Uma estrutura que absorve a matéria e a transforma em uma especie de energia estranha.
+	Uma estrutura que cria matéria apartir dessa energia estranha.
+	
+Ruinas
+	#Cidadelas subterraneas
+		formadas por metais estranhos e brilhos esquisitos
+		caminhos retangulares arrendodados, sons de metal ecoando
+		barulhos tinindo como um organismo vivo.
+		
+		#Criaturas 
+			Vigilante:
+				Formado por um grande olho vítrio vermelho
+				com a traseira tentacular obscura
+					Ao encontrar algo estranho vibra {alarme}
+				
+			Guardião:
+				Formado por um enorme olho vitro vermelho
+				com uma traseira longa tentacular preta e presas de metal prateado.
+					totalmente agressivo
+			
+			Cadaver Andante:
+				Formado por partes de corpos deixados para trás, remendado com um lodo escuro
+				Ataca estranhos
+				
+			Orpers: 
+				pequenas aranhas de preto brilhante que carrega coisas de um lado para o outro
+		
+		Salas de Cidadelas:
+			Condesador e Retificador,
+				Zona de criação de materiais, normalmente operado por Orpers
+			Zona Danger, 
+				Perto do nucleo onde é quente e possui forte forças magneticas
+			Tubulações
+			
+			Camaras Individuais ligadas
+			Arbóreo: com algumas plantas em uma zona iluminada.
+			Cognita: Caixas quentes com muitos glifos.
+			
+			
+A Magia é Composta por nanomáquinas:
+	Que possuem três módulos
+		Blue: São módulos cognatas
+		armazenam e trabalham a infomração redor
+		Green: São módulos que abastece de energia
+		espécies de baterias.
+		Red: São capazes de armazenar o material e modifica-lo
+		
+		Estrturas Fabricantes já encontrados são as
+		Usina Térmica : Verde floral obscura 
+			Estrutura semelhante a uma flor presente em regiões de quentes / ensolaradas
+			Formado por placas negras frias. De aspecto metálico.
+			*Do tronco uma névoa verde se espalha
+		Ponto de Acesso : Agulha Negra
+			Estrtura de estalagmite vindo de baixo
+			Possue o aspecto metálico obscuro
+			*Riscos azuis formam caminhos em sua ponta
+		Fabrica Molecular : Calderão Escuro
+			Perto de Jazidas (Cria Jazidas e as Consome)
+			Aspecto de aparelho mofado
+			*Um liquido vermelho faz ondas no material 
