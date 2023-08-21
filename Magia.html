@@ -10,9 +10,21 @@
 </head>
 
 <body>
-   <header><a href="middle.html">Menu</a></header>
-   <h1 class="center">Sistema de Magia</h1>
+   
+<div class="lefter">
+   <li><a href="#" onclick="carregarConteudo('magia/Golemancia.html')">Golemancia</a></li>
+   <li><a href="#" onclick="carregarConteudo('magia/Reliquia.html')">Reliquia</a></li>
+   aaaaa
+</div>
+
+<div class="home">
+
+      <header><a href="middle.html">Menu</a></header>
+      <h1 class="center">Sistema de Magia</h1>
    <div class="group bordado">
+      <div id="conteudo" >
+         <!-- O conteúdo será preenchido dinamicamente -->
+      </div>
       <h2>3 Fundamentais, 3 Conjuções e 2 Etéreos</h2>
       <p>Possui as Três Bases: Realidade Magia Conhecimento</p>
       <h3 class="b">Conhecimento (Azul) (Sigilos)</h3>
@@ -30,24 +42,24 @@
       <p>Também identificado como matéria, são as coisas que existem.
          Adquirem significados distintos e possuem sua própria energia.
          Uma névoa que circunda.</p>
-      <h3 class="g">Magia (Verde) (Fluxo)</h3>
-      <p>Ou Arcanismo, é a energia mística que permeia tudo e todos no ambiente. Sendo misteriosa e tangente a realidade
-      </p>
-      <h2>Conjunção</h2>
-      <p>Duas partes esperando a terceira para executar.</p>
-      <h3 class="y">Material Mágico (Amarelo)</h3>
-      <p>Material que só espera um comando para ser usado</p>
-      <h3 class="m">Material Inteligente (Magenta)</h3>
-      <p>Objeto que aguarda energizar para funcionar.</p>
-      <h3 class="c">Conhecimento Mágico (Ciano)</h3>
-      <p>Sigilos carregados esperando um alvo para fazer a execução do poder</p>
-      <h2>Os grandes Polares</h2>
-      <p>Formados pelo conceito Ying-Yang. Perigosos</p>
-      <h3 class="w">Luma</h3>
-      <p>Um material imaterial semifantmasgórico, brilhante se aparenta como uma chma branca</p>
-      <h3 class="k">Umbra</h3>
-      <p>Um material semi corrosivo frio, se comporta como um piche</p>
-   </div>
+         <h3 class="g">Magia (Verde) (Fluxo)</h3>
+         <p>Ou Arcanismo, é a energia mística que permeia tudo e todos no ambiente. Sendo misteriosa e tangente a realidade
+         </p>
+         <h2>Conjunção</h2>
+         <p>Duas partes esperando a terceira para executar.</p>
+         <h3 class="y">Material Mágico (Amarelo)</h3>
+         <p>Material que só espera um comando para ser usado</p>
+         <h3 class="m">Material Inteligente (Magenta)</h3>
+         <p>Objeto que aguarda energizar para funcionar.</p>
+         <h3 class="c">Conhecimento Mágico (Ciano)</h3>
+         <p>Sigilos carregados esperando um alvo para fazer a execução do poder</p>
+         <h2>Os grandes Polares</h2>
+         <p>Formados pelo conceito Ying-Yang. Perigosos</p>
+         <h3 class="w">Luma</h3>
+         <p>Um material imaterial semifantmasgórico, brilhante se aparenta como uma chma branca</p>
+         <h3 class="k">Umbra</h3>
+         <p>Um material semi corrosivo frio, se comporta como um piche</p>
+      </div>
    <h2>Áreas</h2>
    <h3>Encanto</h3>
    <p>Emoções, Mimetismo cerebral</p>
@@ -62,21 +74,6 @@
    <li>Seres Vivos</li>
    <p>Sistema de Titulos: Heróis e Animais Lendários Buff maior e Debuff / MicroBuff</p>
    <div class="group bordado">
-      <h2>Reliquias</h2>
-      <h3>Fundadoras</h3>
-      <li>Núcleo Infinito: Um núcleo de poder infinit capaz de criar feixes de energia</li>
-      <li>Metro: Bastão que distorce o tecido do espaço expandindo ou recolhendo o espaço.</li>
-      <li>Caixa Temporal: Capaz de prender objetos no tempo parado ou infinitamente acelerado</li>
-      <li>Varinha da Criação: Capaz de criar matéria do nada.</li>
-      <h3>Fundadoras 2</h3>
-      <li>Globo Matriz: Energia Matéria</li>
-      <li>Manto Cósmico: Tempo Espaço</li>
-      <li>Cajado da Transformação: Energia Espaço</li>
-      <li>Compressor: Espaço Matéria</li>
-      <li>Acelerador: Energia Tempo</li>
-      <li>Suspensão: Tempo Matéria</li>
-   </div>
-   <div class="group bordado">
       <h2 class="m">Tecnomagia</h2>
       <p>Utiliza de objetos e artefatos e combinações para a realização da magia o método é semelhante ao cientifico mas
          instável pela sociedade, portanto matéria e conhecimento.
@@ -87,32 +84,16 @@
       <h2 class="c">Sigilos Arcanos</h2>
       <p>Utiliza do conhecimento de sigilos para a manipulação da realidade imbuindo a magia na realiade causando
          fenômenos, somando a magia a realidade. </p>
-      <li>Conhecer</li>
-      <li>Emissão</li>
-      <h2 class="y">Convocação</h2>
-   </div>
+         <li>Conhecer</li>
+         <li>Emissão</li>
+         <h2 class="y">Convocação</h2>
+      </div>
    <!-- Navegação -->
    <ul>
       <li><a href="#" onclick="mostrarConteudo('conteudo1')">Item 1</a></li>
       <li><a href="#" onclick="mostrarConteudo('conteudo2')">Item 2</a></li>
       <li><a href="#" onclick="mostrarConteudo('conteudo3')">Item 3</a></li>
    </ul>
-
-   <!-- Div para exibir o conteúdo -->
-   <div id="conteudo" class="content">
-      <!-- O conteúdo será preenchido dinamicamente -->
-   </div>
-   <nav>
-      <!-- Navegação -->
-      <ul>
-         <li><a href="#" onclick="carregarConteudo('conteudo1.html')">Item 1</a></li>
-         <li><a href="#" onclick="carregarConteudo('conteudo2.html')">Item 2</a></li>
-         <li><a href="#" onclick="carregarConteudo('conteudo3.html')">Item 3</a></li>
-      </ul>
-   </nav>
-   <div id="conteudo" class="content">
-      <!-- O conteúdo será preenchido dinamicamente -->
-   </div>
-</body>
+</div></body>
 
 </html>

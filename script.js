@@ -27,3 +27,13 @@ function carregarConteudo(arquivo) {
             console.error('Erro ao carregar o conteúdo:', error);
         });
 }
+function alterarConteudo(alvo, opcao) {
+    var textoElement = document.getElementById(alvo);
+    if(opcao == '001') textoElement.textContent = text001;
+    if(opcao == '002') textoElement.textContent = text002;
+    if(opcao == '003') textoElement.textContent = text003;
+}
+
+const text001 = 'texto001'
+const text002 = 'texto002'
+const text003 = 'texto003'
